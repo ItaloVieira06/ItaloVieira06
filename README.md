@@ -1,15 +1,41 @@
 # 👋 Sejam todos muito bem-vindos:
-Meu nome é Ítalo Vieira, tenho 17 anos e desde pequeno tenho muita adimiração pela área de programação, principalmente a voltada para desenvolvimento de jogos e gameficação. 
-Meu foco é a área de Desenvolvimento de Software - também tenho uma grande afinidade com Design, principalmente com o Design de UX - e com isso escolhi estudar em uma Escola 
-Profissionalizante em um curso voltado para Informática. Além disto, também venho participando de cursos e concursos que me façam mais capacitado nesta área.
+Meu nome é Ítalo Vieira e desde pequeno tenho muita adimiração pela área de programação, principalmente a voltada para desenvolvimento de jogos e gameficação. 
+Meu foco é a área de Desenvolvimento e Design e com isso optei por Ingressar em uma Escolha Profissionalizante na Área de Informática, buscando já conhecimentos prévios.
+Posteriormente ingressei no Centro Universitário Farias Brito para Cursar (até o momento) o Curso Tecnólogo de Jogos Digitais. Participei e ainda Participo de vários eventos 
+que venham a agregar na minha evolução como DEV e Designer, principalmente voltado para jogos, além de claro, continuar sempre buscando estar informado sobre a Área.
+
+Considerem este meu perfil como uma Cápsula do Tempo e prova de minha evolução como desenvolvedor, desde meus projetos mais simples desde o início dos meus estudos até os projetos
+atuais na qual me empenho, alguns ainda privados por não estarem o suficientemente prontos para serem mostrados (mesmo em versões beta). Espero que gostem e se divirtam com as Besteiras
+que criei!
+
+---
 
 # 🚀 Habilidades:
-Tenho conhecimentos básicos em HTML, CSS e Java Script. Também possuo conhecimento básico em JAVA, embora este não seja meu foco principal. Possuo conhecimento intermediário
-em Python. Possuo habilidade de aplicação de todos estes meus conhecimentos. Estou sempre procurando por novos conhecimentos e aprendizados na área na qual me disponho. Trabalhos
-e Projetos que me façam crescer e me desenvolver com meus próprios conhecimentos ou novos são anseios que sempre busco como profissional.
+Tenho conhecimentos intermediários em HTML, CSS, JavaScript TypeScript, Node.Js, Nest.Js, React (básico) e Python. Também possuo conhecimento básico em JAVA e C,
+embora estes não sejam meus focos principais. Possuo habilidade de aplicação de todos estes meus conhecimentos. Estou sempre procurando por novos conhecimentos e aprendizados 
+na área na qual me disponho.
 
-# 💻 Artifícios:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-# 🌐 Contato
+# 💻 Ferramentas:
+## Linguagens:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+## Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Backend:
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+# 🌐 Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tauan-ray](https://www.linkedin.com/in/%C3%ADtalo-do-esp%C3%ADrito-santo-vieira-924a54256/)) **Ítalo (Vieira) do Espírito Santo Vieira**
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **italoespiritosantovieira@gmail.com**
