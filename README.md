@@ -8,14 +8,10 @@ Considerem este meu perfil como uma Cápsula do Tempo e prova de minha evoluçã
 atuais na qual me empenho, alguns ainda privados por não estarem o suficientemente prontos para serem mostrados (mesmo em versões beta). Espero que gostem e se divirtam com as Besteiras
 que criei!
 
----
-
 # 🚀 Habilidades:
 Tenho conhecimentos intermediários em HTML, CSS, JavaScript TypeScript, Node.Js, Nest.Js, React (básico) e Python. Também possuo conhecimento básico em JAVA e C,
 embora estes não sejam meus focos principais. Possuo habilidade de aplicação de todos estes meus conhecimentos. Estou sempre procurando por novos conhecimentos e aprendizados 
 na área na qual me disponho.
-
----
 
 # 💻 Ferramentas:
 ## Linguagens:
@@ -36,8 +32,6 @@ na área na qual me disponho.
 ## Extras:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 # 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tauan-ray](https://www.linkedin.com/in/%C3%ADtalo-do-esp%C3%ADrito-santo-vieira-924a54256/))
