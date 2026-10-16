@@ -1,6 +1,6 @@
 # 👋 Sejam todos muito bem-vindos:
 Meu nome é Ítalo Vieira e desde pequeno tenho muita adimiração pela área de programação, principalmente a voltada para desenvolvimento de jogos e gameficação. 
-Meu foco é a área de Desenvolvimento e Design e com isso optei por Ingressar em uma Escolha Profissionalizante na Área de Informática, buscando já conhecimentos prévios.
+Meu foco é a área de Desenvolvimento e Design e com isso optei por ingressar em uma Escolha Profissionalizante na Área de Informática, buscando já conhecimentos prévios.
 Posteriormente ingressei no Centro Universitário Farias Brito para Cursar (até o momento) o Curso Tecnólogo de Jogos Digitais. Participei e ainda Participo de vários eventos 
 que venham a agregar na minha evolução como DEV e Designer, principalmente voltado para jogos, além de claro, continuar sempre buscando estar informado sobre a Área.
 
