@@ -42,4 +42,4 @@ na área na qual me disponho.
 # 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tauan-ray](https://www.linkedin.com/in/%C3%ADtalo-do-esp%C3%ADrito-santo-vieira-924a54256/))
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-**italoespiritosantovieira@gmail.com**
+<br>**italoespiritosantovieira@gmail.com**
