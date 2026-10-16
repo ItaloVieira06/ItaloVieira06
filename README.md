@@ -33,8 +33,13 @@ na área na qual me disponho.
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
+## Extras:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 # 🌐 Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tauan-ray](https://www.linkedin.com/in/%C3%ADtalo-do-esp%C3%ADrito-santo-vieira-924a54256/)) **Ítalo (Vieira) do Espírito Santo Vieira**
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **italoespiritosantovieira@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tauan-ray](https://www.linkedin.com/in/%C3%ADtalo-do-esp%C3%ADrito-santo-vieira-924a54256/))
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+**italoespiritosantovieira@gmail.com**
